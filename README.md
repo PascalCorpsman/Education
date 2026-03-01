@@ -27,6 +27,7 @@ The goal of these projects is not merely functional software, but pedagogical to
 | [Bitverknuepfung](https://github.com/PascalCorpsman/mini_projects/tree/main/miniprojects/Bitverknuepfungen) | Classroom / Practice | Basic knowledge of Boolean algebra | Tool for evaluating Boolean expressions and visualizing their truth tables and Karnaugh maps, helping learners understand logical simplification and digital logic design principles. |
 | [Digiman 2](https://github.com/PascalCorpsman/mini_projects/tree/main/miniprojects/Digiman2)| Classroom / Practice | Basic understanding of digital logic (AND, OR gates) | Interactive simulation of digital circuits, from basic logic gates to flip-flops and shift registers, enabling users to explore circuit behavior and sequential logic concepts. |
 | [Sortieren2](https://corpsman.de/index.php?doc=schule/sortieren2)| Classroom | Basic understanding of sorting algorithms | Interactive visualization of sorting algorithms including Quicksort, Bubblesort, and Selection Sort, allowing users to explore algorithmic behavior, comparisons, and step-by-step sorting processes. |
+| [Anty_Krypt](https://corpsman.de/index.php?doc=beispiele/anty_krypt) | Classroom / Practice | Basic understanding of classical cryptography and frequency analysis | Tool for analyzing encrypted texts, determining the key length via the coincidence matrix, and calculating the key and decrypted text using frequency analysis, helping learners understand cryptanalysis techniques and the structure of classical ciphers. |
 | [Baum](https://corpsman.de/index.php?doc=schule/baum) | Classroom / Practice  | Basic understanding of binary trees and tree traversal algorithms | Visualization of binary trees, including AVL trees, with traversal demonstrations, allowing users to explore tree structure, balancing, and traversal techniques interactively. |
 | [Graphen_algos](https://corpsman.de/index.php?doc=beispiele/graphen_algos)|Classroom / Practice  | Basic understanding of graph theory and algorithms | Interactive demonstration of graph algorithms including Dijkstra, Prim, and Kruskal, allowing users to explore shortest paths, minimum spanning trees, and algorithmic behavior in graph structures. |
 | [SQL](https://corpsman.de/index.php?doc=schule/sql) | Practice | Basic understanding of relational databases and SQL queries | Interactive demo with exercises for working with SQL databases, allowing users to practice query writing, data retrieval, and basic database manipulation in a hands-on learning environment. |
@@ -47,6 +48,8 @@ The goal of these projects is not merely functional software, but pedagogical to
 | --- | --- | --- | --- |
 | [Tippsy3](https://github.com/PascalCorpsman/mini_projects/tree/main/miniprojects/Tippsy3) | Practice | None | Structured training of touch typing (10-finger system), improvement of typing speed, accuracy, and muscle memory development. |
 | [Vokabel](https://corpsman.de/index.php?doc=projekte/vokabel) | Practice | Basic understanding of vocabulary learning techniques | Application for learning and practicing vocabulary, allowing users to review, test, and reinforce language skills through interactive exercises. |
+| [Fingerspeed](https://corpsman.de/index.php?doc=projekte/fingerspeed) | Practice | Basic knowledge of the alphabet and typing skills | Program where users type the letters A-Z as quickly as possible in the correct order, with a high-score system, helping learners improve typing speed, accuracy, and hand-eye coordination. |
+| [Minipaint](https://corpsman.de/index.php?doc=schule/minipaint) | Practice | Basic knowledge of using a touchscreen or mouse | Extremely minimalist painting program, especially suited for touchscreen devices and young children, helping learners explore creativity and basic digital interaction in a simple, intuitive environment. |
 
 ## Related Repositories
 
@@ -70,7 +73,6 @@ Weitere Anwendungen welche noch Rein müssen:
 Vielleicht auch Sinnvoll ?
 - https://corpsman.de/index.php?doc=beispiele/rsa
 - https://corpsman.de/index.php?doc=beispiele/fouriersynthese
-- https://corpsman.de/index.php?doc=beispiele/anty_krypt
 - https://corpsman.de/index.php?doc=projekte/diffusionsfilter
 - https://corpsman.de/index.php?doc=beispiele/shannon_fano_coding
 - https://corpsman.de/index.php?doc=knobeln/hilbert
@@ -78,38 +80,11 @@ Vielleicht auch Sinnvoll ?
 - https://corpsman.de/index.php?doc=beispiele/quadtree
 - https://corpsman.de/index.php?doc=beispiele/dithering_mask
 - https://corpsman.de/index.php?doc=beispiele/hough_transformation
-- https://corpsman.de/index.php?doc=projekte/fingerspeed
 - https://corpsman.de/index.php?doc=schule/greenfoot
-- https://corpsman.de/index.php?doc=schule/minipaint
 - https://github.com/PascalCorpsman/mini_projects/tree/main/miniprojects/Raytracer
 - https://github.com/PascalCorpsman/mini_projects/tree/main/miniprojects/SFXR
 - https://github.com/PascalCorpsman/fpc_understand
 - https://corpsman.de/index.php?doc=knobeln/summe_n
 - https://corpsman.de/index.php?doc=knobeln/proof2e1
-
-[//]: | Tippsy3 | None | [Tippsy3 Source](...) | [Tippsy3 v1.0 Windows ZIP](#) *(coming soon)* | ... |
-
-
-## Column Description
-
-- **Application**  
-  The official name of the software project.
-
-- **Classification**  
-  The primary academic or technical domain the application relates to (e.g., Mathematics, Computer Science, Compiler Construction, Audio Processing).
-
-- **Target Audience**  
-  The intended level of learners (e.g., Primary School, Secondary School, Undergraduate Students, Advanced Learners).
-
-- **Source Code**  
-  Direct link to the public repository containing the implementation.
-
-- **Executable**  
-  A downloadable precompiled version of the application, if available.  
-  If no standalone archive is provided, executables may be found in the release section of the respective repository.
-
-- **Learning Objectives**  
-  A concise description of the core concepts, principles, or techniques that can be explored or reinforced using the application.
-
 
 -->
